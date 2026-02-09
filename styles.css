@@ -1,4 +1,33 @@
-.golden-img {
-    max-width: 50%;
-    height: auto;
+body {
+  background-color: #e6dfd5;
+  color: #222;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content-box {
+  width: 900px;
+  margin: 30px auto;
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 6px;
+}
+
+.center-image {
+  display: block;
+  margin: 20px auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 15px;
 }
